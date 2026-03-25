@@ -1,4 +1,4 @@
-Crée moi une Phase 1 d'un jeu Pokémon simplifié et niveau junior. Voici le contexte technique complet :
+Phase 1 d'un jeu Pokémon simplifié et niveau junior. Voici le contexte technique complet :
 Stack technique :
 * Frontend : Angular + Phaser 3
 * Backend : Spring Boot (Java), ouvert sur IntelliJ
@@ -30,9 +30,4 @@ Ce que j'attends :
 6. Les endpoints Spring Boot nécessaires (REST API)
 7. Les entités JPA et repositories Java
 8. Les instructions pas à pas pour tout lancer depuis IntelliJ
-Contraintes importantes :
-* Rester très simple, c'est une base de travail, pas un produit fini
-* Pas de système d'authentification
-* Pas de multijoueur
-* Pas de génération procédurale
-* Code commenté et lisible
+
